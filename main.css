@@ -1,0 +1,34 @@
+main > section {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header1 > img {
+  width: 1250px;
+}
+.hero > img {
+  width: 650px;
+}
+.coupens > img {
+  width: 1300px;
+}
+.offer > img {
+  width: 650px;
+}
+.crezy > img {
+  width: 1350px;
+}
+.photo > img {
+  width: 260px;
+}
+.shop > img {
+  width: 1350px;
+}
+.hero3img > img {
+  height: 290px;
+}
+#moreKnock > img {
+  width: 1350px;
+}
