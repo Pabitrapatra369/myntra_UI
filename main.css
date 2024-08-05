@@ -7,9 +7,17 @@ main > section {
 }
 .header1 > img {
   width: 1250px;
+  transition: linear 500ms;
+}
+.header1 > img:hover {
+  width: 1300px;
 }
 .hero > img {
   width: 650px;
+  transition: linear 500ms;
+}
+.hero > img:hover {
+  width: 700px;
 }
 .coupens > img {
   width: 1300px;
